@@ -1,0 +1,7 @@
+/home/alclev/romulus/build/CMakeFiles/edit_cache.dir
+/home/alclev/romulus/build/CMakeFiles/rebuild_cache.dir
+/home/alclev/romulus/build/tests/CMakeFiles/cas_test.dir
+/home/alclev/romulus/build/tests/CMakeFiles/read_test.dir
+/home/alclev/romulus/build/tests/CMakeFiles/write_test.dir
+/home/alclev/romulus/build/tests/CMakeFiles/edit_cache.dir
+/home/alclev/romulus/build/tests/CMakeFiles/rebuild_cache.dir

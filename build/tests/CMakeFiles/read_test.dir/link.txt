@@ -1,0 +1,1 @@
+/usr/bin/clang++-18 -g CMakeFiles/read_test.dir/read.cc.o -o read_test  -lrdmacm -libverbs -lpthread /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a 

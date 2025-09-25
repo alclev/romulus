@@ -1,0 +1,24 @@
+{
+  "files.associations": {
+    "*.md": "markdown",
+    "*.sh": "shellscript",
+    "string_view": "cpp",
+    "array": "cpp",
+    "format": "cpp",
+    "initializer_list": "cpp",
+    "ranges": "cpp",
+    "span": "cpp",
+    "memory": "cpp",
+    "istream": "cpp",
+    "functional": "cpp",
+    "tuple": "cpp",
+    "utility": "cpp",
+    "variant": "cpp",
+    "deque": "cpp",
+    "list": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "thread": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
